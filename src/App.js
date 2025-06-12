@@ -83,6 +83,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1 className="title">Emmelie &lt;3</h1>
       <div className="calculator">
         <div className="display">{display}</div>
         <div className="keypad">
